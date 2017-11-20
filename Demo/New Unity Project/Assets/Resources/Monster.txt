@@ -1,0 +1,1 @@
+{"1":{"id":"1","level":"1","pictrue":"Monster1","MoveSpeed":"1","buttle":"1"},"2":{"id":"2","level":"2","pictrue":"Monster2","MoveSpeed":"2.1","buttle":"1"},"3":{"id":"3","level":"1","pictrue":"Monster3","MoveSpeed":"1","buttle":""},"4":{"id":"4","level":"4","pictrue":"Monster4","MoveSpeed":"1","buttle":"2"}}
